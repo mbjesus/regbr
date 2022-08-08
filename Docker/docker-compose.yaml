@@ -1,0 +1,102 @@
+version: '3'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:6.2.0
+    restart: always
+    container_name: zookeeper
+    networks: 
+      - regbr-net
+    environment:
+      - ZOOKEEPER_CLIENT_PORT=2181
+      - ZOOKEEPER_TICK_TIME=2000
+      - ALLOW_ANONYMOUS_LOGIN=yes
+
+  kafka:
+    image: confluentinc/cp-kafka:6.2.0
+    restart: always
+    container_name: kafka
+    networks: 
+      - regbr-net
+    depends_on:
+      - zookeeper
+    ports:
+      - 9092:9092
+    environment:
+      - KAFKA_BROKER_ID=1
+      - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      - KAFKA_INTER_BROKER_LISTENER_NAME=PLAINTEXT
+      - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+
+  kafdrop:
+    image: obsidiandynamics/kafdrop:3.27.0
+    restart: always
+    container_name: kafkadrop
+    networks: 
+      - regbr-net
+    depends_on:
+      - kafka
+    ports:
+      - 19000:9000
+    environment:
+      - KAFKA_BROKERCONNECT=kafka:29092
+
+  nifi:
+    image: apache/nifi:1.13.2
+    restart: always
+    hostname: nifi
+    container_name: nifi
+    ports:
+      - 8080:8080 # Porta HTTP
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+      - NIFI_CLUSTER_IS_NODE=true
+      - NIFI_CLUSTER_NODE_PROTOCOL_PORT=8082
+      - NIFI_ZK_CONNECT_STRING=zookeeper:2181
+      - NIFI_ELECTION_MAX_WAIT=1 min
+    networks:
+      - regbr-net
+    depends_on:
+      - zookeeper
+    volumes:
+      - nifi_regbr:/data
+
+  postgres-db:
+    image: postgres:9.6.23
+    restart: always
+    container_name: postgres
+    ports:
+      - 5432:5432
+    networks:
+      - regbr-net
+    environment:
+      POSTGRES_PASSWORD: 
+      POSTGRES_USER: 
+      POSTGRES_DB: 
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      # Indica onde ficarão os dados no host: /host/dir:/container/dir
+      - postgres_regbr:/var/lib/postgresql/data
+
+  mongo:
+    image: mongo
+    restart: always
+    container_name: mongo
+    ports:
+      - 27017:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: 
+      MONGO_INITDB_ROOT_PASSWORD: 
+    networks:
+      - regbr-net
+    volumes:
+      - mongo_regbr:/data/db
+
+networks: 
+  regbr-net:
+    driver: bridge
+volumes:
+  nifi_regbr:
+  postgres_regbr:
+  mongo_regbr: 

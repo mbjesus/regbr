@@ -1,0 +1,348 @@
+RESOLUÇÃO CFC N.º 1.409/12
+
+
+Aprova a ITG 2002 – Entidade sem Finalidade de Lucros.
+
+
+
+O CONSELHO FEDERAL DE CONTABILIDADE, no exercício de suas atribuições legais e regimentais e com fundamento no disposto na alínea “f” do Art. 6º do Decreto-Lei n.º 9.295/46, alterado pela Lei n.º 12.249/10,
+
+RESOLVE: 
+
+Art. 1º  Aprovar a Interpretação ITG 2002 – Entidade sem Finalidade de Lucros.
+
+Art. 2º Revogar as Resoluções CFC n.os 837/99, 838/99, 852/99, 877/00, 926/01 e 966/03, publicadas no D.O.U., Seção I, de 2/3/99, 2/3/99, 25/8/99, 20/4/00, 3/1/02 e 4/6/03, respectivamente.
+
+Art. 3º Esta Resolução entra em vigor na data de sua publicação, aplicando-se aos exercícios iniciados a partir de 1º de janeiro de 2012.
+
+
+
+
+Brasília, 21 de setembro de 2012.
+
+
+
+Contador Juarez Domingues Carneiro
+Presidente
+
+
+Ata CFC n.º 969
+
+
+
+
+
+ 
+NORMAS BRASILEIRAS DE CONTABILIDADE
+ITG 2002 – ENTIDADE SEM FINALIDADE DE LUCROS
+
+Índice	Item
+OBJETIVO	1
+ALCANCE	2 – 7
+RECONHECIMENTO	8 – 21
+DEMONSTRAÇÕES CONTÁBEIS	22 – 25
+CONTAS DE COMPENSAÇÃO	26
+DIVULGAÇÃO	27
+APÊNDICE A	
+
+
+
+Objetivo
+
+1.	Esta Interpretação estabelece critérios e procedimentos específicos de avaliação, de reconhecimento das transações e variações patrimoniais, de estruturação das demonstrações contábeis e as informações mínimas a serem divulgadas em notas explicativas de entidade sem finalidade de lucros.
+
+Alcance
+
+2.	A entidade sem finalidade de lucros pode ser constituída sob a natureza jurídica de fundação de direito privado, associação, organização social, organização religiosa, partido político e entidade sindical.
+
+3.	A entidade sem finalidade de lucros pode exercer atividades, tais como as de assistência social, saúde, educação, técnico-científica, esportiva, religiosa, política, cultural, beneficente, social e outras, administrando pessoas, coisas, fatos e interesses coexistentes, e coordenados em torno de um patrimônio com finalidade comum ou comunitária.
+
+4.	Aplicam-se à entidade sem finalidade de lucros os Princípios de Contabilidade e esta Interpretação. Aplica-se também a NBC TG 1000 – Contabilidade para Pequenas e Médias Empresas ou as normas completas (IFRS completas) naqueles aspectos não abordados por esta Interpretação. 
+
+5.	Não estão abrangidos por esta Interpretação os Conselhos Federais, Regionais e Seccionais de profissões liberais, criados por lei federal, de inscrição compulsória, para o exercício legal da profissão.
+
+6.	Esta Interpretação aplica-se às pessoas jurídicas de direito privado sem finalidade de lucros, especialmente entidade imune, isenta de impostos e contribuições para a seguridade social, beneficente de assistência social e atendimento aos Ministérios que, direta ou indiretamente, têm relação com entidades sem finalidade de lucros e, ainda, Receita Federal do Brasil e demais órgãos federais, estaduais e municipais. 
+
+7.	Esta Interpretação aplica-se também à entidade sindical, seja confederação, central, federação e sindicato; a qualquer associação de classe; às outras denominações que possam ter, abrangendo tanto a patronal como a de trabalhadores.
+
+Reconhecimento
+
+8.	As receitas e as despesas devem ser reconhecidas, respeitando-se o regime contábil de competência.
+
+9.	As doações e subvenções recebidas para custeio e investimento devem ser reconhecidas no resultado, observado o disposto na NBC TG 07 – Subvenção e Assistência Governamentais.
+
+10.	Os registros contábeis devem evidenciar as contas de receitas e despesas, com e sem gratuidade, superávit ou déficit, de forma segregada, identificáveis por tipo de atividade, tais como educação, saúde, assistência social e demais atividades.
+
+11.	Enquanto não atendidos os requisitos para reconhecimento no resultado, a contrapartida da subvenção, de contribuição para custeio e investimento, bem como de isenção e incentivo fiscal registrados no ativo, deve ser em conta específica do passivo.
+
+12.	As receitas decorrentes de doação, contribuição, convênio, parceria, auxílio e subvenção por meio de convênio, editais, contratos, termos de parceira e outros instrumentos, para aplicação específica, mediante constituição, ou não, de fundos, e as respectivas despesas devem ser registradas em contas próprias, inclusive as patrimoniais, segregadas das demais contas da entidade.
+
+13.	Os benefícios concedidos pela entidade sem finalidade de lucros a título de gratuidade devem ser reconhecidos de forma segregada, destacando-se aqueles que devem ser utilizados em prestações de contas nos órgãos governamentais.
+
+14.	A entidade sem finalidade de lucros deve constituir provisão em montante suficiente para cobrir as perdas esperadas sobre créditos a receber, com base em estimativa de seus prováveis valores de realização e baixar os valores prescritos, incobráveis e anistiados.
+
+15.	O valor do superávit ou déficit deve ser incorporado ao Patrimônio Social. O superávit, ou parte de que tenha restrição para aplicação, deve ser reconhecido em conta específica do Patrimônio Líquido. 
+
+16.	 O benefício concedido como gratuidade por meio da prestação de serviços deve ser reconhecido pelo valor efetivamente praticado.
+
+17.	Os registros contábeis devem ser segregados de forma que permitam a apuração das informações para prestação de contas exigidas por entidades governamentais, aportadores, reguladores e usuários em geral.
+
+18.	A dotação inicial disponibilizada pelo instituidor/fundador em ativo monetário ou não monetário, no caso das fundações, é considerada doação patrimonial e reconhecida em conta do patrimônio social.
+ 
+19.	O trabalho voluntário deve ser reconhecido pelo valor justo da prestação do serviço como se tivesse ocorrido o desembolso financeiro.
+
+20.	Aplica-se aos ativos não monetários a Seção 27 da NBC TG 1000, que trata da redução ao valor recuperável de ativos e a NBC TG 01, quando aplicável.
+
+21.	Na adoção inicial desta Interpretação e da NBC TG 1000 ou das normas completas (IFRS completas), a entidade pode adotar os procedimentos do custo atribuído (deemed cost) de que trata a ITG 10.
+
+Demonstrações contábeis
+
+22.	As demonstrações contábeis, que devem ser elaboradas pela entidade sem finalidade de lucros, são o Balanço Patrimonial, a Demonstração do Resultado do Período, a Demonstração das Mutações do Patrimônio Líquido, a Demonstração dos Fluxos de Caixa e as Notas Explicativas, conforme previsto na NBC TG 26 ou na Seção 3 da NBC TG 1000, quando aplicável.
+
+23.	No Balanço Patrimonial, a denominação da conta Capital deve ser substituída por Patrimônio Social, integrante do grupo Patrimônio Líquido. No Balanço Patrimonial e nas Demonstrações do Resultado do Período, das Mutações do Patrimônio Líquido e dos Fluxos de Caixa, as palavras lucro ou prejuízo devem ser substituídas por superávit ou déficit do período.
+
+24.	Na Demonstração do Resultado do Período, devem ser destacadas as informações de gratuidade concedidas e serviços voluntários obtidos, e divulgadas em notas explicativas por tipo de atividade. 
+
+25.	Na Demonstração dos Fluxos de Caixa, as doações devem ser classificadas nos fluxos das atividades operacionais.
+
+Contas de compensação
+
+26.	Sem prejuízo das informações econômicas divulgadas nas demonstrações contábeis, a entidade pode controlar em conta de compensação transações referentes a isenções, gratuidades e outras informações para a melhor evidenciação contábil.
+
+Divulgação
+
+27.	As demonstrações contábeis devem ser complementadas por notas explicativas que contenham, pelo menos, as seguintes informações:
+(a)  contexto operacional da entidade, incluindo a natureza social e econômica e os objetivos sociais;
+(b)  os critérios de apuração da receita e da despesa, especialmente com gratuidade, doação, subvenção, contribuição e aplicação de recursos;
+(c) 	a renúncia fiscal relacionada com a atividade deve ser evidenciada nas demontrações contábeis  como se a obrigação devida fosse;
+(d) 	as subvenções recebidas pela entidade, a aplicação dos recursos e as responsabilidades decorrentes dessas subvenções;
+(e) 	os recursos de aplicação restrita e as responsabilidades decorrentes de tais recursos;
+(f)  	os recursos sujeitos a restrição ou vinculação por parte do doador;
+(g) 	eventos subsequentes à data do encerramento do exercício que tenham, ou possam vir a ter, efeito relevante sobre a situação financeira e os resultados futuros da entidade;
+(h) 	as taxas de juros, as datas de vencimento e as garantias das obrigações em longo prazo;
+(i)   informações sobre os seguros contratados;
+(j)  	a entidade educacional de ensino superior deve evidenciar a adequação da receita com a despesa de pessoal, segundo parâmetros estabelecidos pela Lei das Diretrizes e Bases da Educação e sua regulamentação;
+(k)  	os critérios e procedimentos do registro contábil de depreciação, amortização e exaustão do ativo imobilizado, devendo ser observado a obrigatoriedade do reconhecimento com base em estimativa de sua vida útil;
+(l) 	segregar os atendimentos com recursos próprios dos demais atendimentos realizados pela entidade;
+(m) todas as gratuidades praticadas devem ser registradas de forma segregada, destacando aquelas que devem ser utilizadas na prestação de contas nos órgãos governamentais, apresentando dados quantitativos, ou seja, valores dos benefícios, número de atendidos, número de atendimentos, número de bolsistas com valores e percentuais representativos;
+(n)  a entidade deve demonstrar, comparativamente, o custo e o valor reconhecido quando este valor não cobrir os custos dos serviços prestados.
+
+
+APÊNDICE A – EXEMPLOS DE DEMONSTRAÇÕES CONTÁBEIS PARA ENTIDADES SEM FINALIDADE DE LUCROS
+
+
+Apresentam-se exemplos de demonstrações contábeis mencionadas nesta Interpretação, cujo objetivo é auxiliar os preparadores para divulgação das informações contábeis e financeiras das entidades sem finalidade de lucros. A entidade pode alterar e incluir contas para atender às especificidades da entidade, inclusive agregar contas similares para fins de divulgação das demonstrações contábeis, sempre que entender ser necessário. O Apêndice acompanha, mas não faz parte da Interpretação.
+
+
+I.	BALANÇO PATRIMONIAL
+
+	20x1	20x0
+ATIVO		
+  Circulante		
+        Caixa e Equivalentes de Caixa		
+              Caixa		
+              Banco C/Movimento – Recursos sem Restrição		
+              Banco C/Movimento – Recursos com Restrição 		
+              Aplicações Financeiras – Recursos sem Restrição		
+              Aplicações Financeiras – Recursos com Restrição		
+        Créditos a Receber		
+              Mensalidades de Terceiros		
+              Atendimentos Realizados		
+              Adiantamentos a Empregados		
+              Adiantamentos a Fornecedores		
+              Recursos de Parcerias em Projetos		
+              Tributos a Recuperar		
+              Despesas Antecipadas		
+        Estoques		
+              Produtos Próprios para Venda		
+              Produtos Doados para Venda		
+              Almoxarifado / Material de Expediente		
+		
+Não Circulante		
+       Realizável a Longo Prazo		
+             Aplicações Financeiras – Recursos sem Restrição		
+             Aplicações Financeiras – Recursos com Restrição		
+             Valores a Receber        		
+       Investimentos		
+             Investimentos Permanentes		
+       Imobilizado		
+             Bens sem Restrição		
+             Bens com Restrição		
+             (-) Depreciação Acumulada		
+        Intangível     		
+             Direitos de Uso de Softwares		
+             Direitos de Autor e de Marcas		
+             (-) Amortização Acumulada		
+ 
+
+	20x1	20x0
+PASSIVO		
+  Circulante		
+      Fornecedores de bens e serviços		
+      Obrigações com Empregados		
+      Obrigações Tributárias		
+      Empréstimos e Financiamentos a Pagar		
+      Recursos de Projetos em Execução		
+      Recursos de Convênios em Execução		
+      Subvenções e Assistências Governamentais a Realizar		
+   Não Circulante		
+      Empréstimos e Financiamentos a Pagar		
+      Recursos de Projetos em Execução		
+      Recursos de Convênios em Execução		
+      Subvenções e Assistências Governamentais a Realizar		
+   Patrimônio Líquido		
+      Patrimônio Social		
+      Outras Reservas		
+      Ajustes de Avaliação Patrimonial		
+      Superávit ou Déficit Acumulado		
+
+
+II.	   DEMONSTRAÇÃO DO RESULTADO DO PERÍODO 
+
+	20x1	20x0
+RECEITAS OPERACIONAIS 		
+      Com Restrição		
+             Programa (Atividades) de Educação		
+             Programa (Atividades) de Saúde 		
+             Programa (Atividades) de Assistência Social		
+             Programa (Atividades) de Direitos Humanos		
+             Programa (Atividades) de Meio Ambiente		
+             Outros Programas (Atividades) 		
+             Gratuidades		
+             Trabalho Voluntário		
+             Rendimentos Financeiros		
+      Sem Restrição		
+             Receitas de Serviços Prestados		
+             Contribuições e Doações Voluntárias		
+             Ganhos na Venda de Bens		
+             Rendimentos Financeiros 		
+             Outros Recursos Recebidos		
+CUSTOS E DESPESAS OPERACIONAIS		
+       Com Programas (Atividades)		
+             Educação		
+             Saúde 		
+             Assistência Social		
+             Direitos Humanos		
+             Meio Ambiente		
+             Gratuidades Concedidas		
+             Trabalho Voluntário		
+RESULTADO BRUTO		
+DESPESAS OPERACIONAIS		
+       Administrativas		
+             Salários 		
+             Encargos Sociais		
+             Impostos e Taxas		
+             Aluguéis		
+             Serviços Gerais		
+             Manutenção 		
+             Depreciação e Amortização		
+             Perdas Diversas		
+       Outras despesas/receitas operacionais		
+		
+OPERAÇÕES DESCONTINUADAS (LÍQUIDO)		
+		
+SUPERÁVIT/DÉFICIT DO PERÍODO		
+
+Observações:
+1)	As despesas administrativas se referem àquelas indiretas ao programa (atividades);
+2)	As gratuidades e o trabalho voluntário devem ser demonstrados por programa (atividades) em Nota Explicativa.
+
+
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA 
+1.	Método Direto	20x1	20x0
+Fluxo de Caixa das Atividades Operacionais				
+    Recursos Recebidos				
+        Entidades Governamentais	3,00		2,00	
+        Entidades Privadas	3,00		1,00	
+        Doações e Contribuições Voluntárias	1,00		1,00	
+        Próprios	1,00		2,00	
+        Rendimentos Financeiros	1,00		1,00	
+        Outros	1,00		1,00	
+    Pagamentos Realizados				
+Aquisição de bens e Serviços – Programas (Atividades) Executados	(3,00)		(2,00)	
+         Salários e Encargos Sociais do Pessoal Administrativo   	(1,00)		(1,00)	
+         Contribuições Sociais, Impostos e Taxas	(0,00)		(0,00)	
+         Outros Pagamentos	(1,00)		(1,00)	
+ (=) Caixa Líquido Gerado pelas Atividades Operacionais		5,00		4,00
+				
+Fluxo de Caixa das Atividades de Investimento				
+         Recursos Recebidos pela Venda de Bens 	1,00		2,00	
+         Outros Recebimentos por Investimentos Realizados 	1,00		1,00	
+         Aquisições de Bens e Direitos para o Ativo	(3,00)		(4,00)	
+ (=) Caixa Líquido Consumido pelas Atividades de Investimento      		(1,00)		(1,00)
+				
+Fluxo de Caixa das Atividades de Financiamento				
+          Recebimentos de Empréstimos 	1,00		3,00	
+          Outros Recebimentos por Financiamentos	1,00		1,00	
+          Pagamentos de Empréstimos	(2,00)		(2,00)	
+          Pagamentos de Arrendamento Mercantil	(2,00)		(3,00)	
+(=) Caixa Líquido Consumido pelas Atividades de Financiamento		(2,00)		(1,00)
+(=) Aumento Líquido de Caixa e Equivalentes de Caixa		2,00		2,00
+Caixa e Equivalentes de Caixa no Início do Período		3,00		1,00
+Caixa e Equivalentes de Caixa no Fim do Período		5,00		3,00
+
+
+ 
+
+2.	Método Indireto	20x1	20x0
+Fluxo de Caixa das Atividades Operacionais				
+    Superávit (Déficit) do Período	1,00		1,00	
+    Ajustes por:				
+        (+) Depreciação	1,00		1,00	
+        (+) Amortização	1,00		1,00	
+        (+) Perda de Variação Cambial	1,00		0,00	
+        (-)  Ganho na Venda de Bens do Imobilizado	(1,00)		(1,00)	
+    Superávit (Déficit) Ajustado		3,00		2,00
+    Aumento (Diminuição) nos Ativos Circulantes				
+              Mensalidades de Terceiros	2,00		3,00	
+              Atendimentos Realizados	4,00		3,00	
+              Adiantamentos a Empregados	(1,00)		(1,00)	
+              Adiantamentos a Fornecedores	(1,00)		(1,00)	
+              Recursos de Parcerias em Projetos	(1,00)		(1,00)	
+              Tributos a Recuperar	1,00		1,00	
+              Despesas Antecipadas	(1,00)		(1,00)	
+              Outros Valores a Receber	2,00	5,00	1,00	4,00
+    Aumento (Diminuição) nos Passivos Circulantes				
+              Fornecedores de bens e serviços	 (3,00)		(2,00)	
+              Obrigações com Empregados	(2,00)		(1,00)	
+              Obrigações Tributárias	(1,00)		(1,00)	
+              Empréstimos e Financiamentos a Pagar	4,00		3,00	
+              Recursos de Projetos em Execução	(2,00)		(1,00)	
+              Recursos de Convênios em Execução	(1,00)		(1,00)	
+              Subvenções e Assistências Governamentais	3,00		2,00	
+              Outras Obrigações a Pagar	(1,00)	(3,00)	(1,00)	(2,00)
+ (=) Caixa Líquido Gerado pelas Atividades Operacionais		5,00		4,00
+				
+Fluxo de Caixa das Atividades de Investimento				
+         Recursos Recebidos pela Venda de Bens 	1,00		2,00	
+         Outros Recebimentos por Investimentos Realizados 	1,00		1,00	
+         Aquisições de Bens e Direitos para o Ativo	(3,00)		(4,00)	
+ (=) Caixa Líquido Consumido pelas Atividades de Investimento      		(1,00)		(1,00)
+				
+Fluxo de Caixa das Atividades de Financiamento				
+          Recebimentos de Empréstimos 	1,00		3,00	
+          Outros Recebimentos por Financiamentos	1,00		1,00	
+          Pagamentos de Empréstimos	(2,00)		(2,00)	
+          Pagamentos de Arrendamento Mercantil	(2,00)		(3,00)	
+(=) Caixa Líquido Consumido pelas Atividades de Financiamento		(2,00)		(1,00)
+(=) Aumento Líquido de Caixa e Equivalentes de Caixa		2,00		2,00
+Caixa e Equivalentes de Caixa no Início do Período		3,00		1,00
+Caixa e Equivalentes de Caixa no Fim do Período		5,00		3,00
+
+
+III.	DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO LÍQUIDO
+                                                                                                   Em 31/12/20x1
+	Patrimônio
+Social	Outras 
+Reservas	Ajustes de Avaliação Patrimonial	Superávit / Déficit
+	Total do Patrimônio
+Líquido
+Saldos iniciais em 31.12.20x0	X	-	-	X	X
+Movimentação do Período					
+Superávit / Déficit do Período				X	X
+Ajustes de Avaliação Patrimonial			X		X
+Recursos de Superávit com Restrição		X		(X)	-
+Transferência de Superávit de Recursos sem Restrição	X			(X)	
+-
+Saldos finais em 31/12/20x1	X	X	X	-	X
+
