@@ -1,12 +1,12 @@
 Dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse, e dá outras providências.
 
-Este Decreto regulamenta os convênios e os contratos de repasse celebrados pelos órgãos e entidades da administração pública federal com órgãos ou entidades públicas ou privadas sem fins lucrativos, para a execução de programas, projetos e atividades que envolvam a transferência de recursos oriundos dos Orçamentos Fiscal e da Seguridade Social da União.   (Redação dada pelo Decreto nº 10.426, de 2020).
+Este Decreto regulamenta os convênios e os contratos de repasse celebrados pelos órgãos e entidades da administração pública federal com órgãos ou entidades públicas ou privadas sem fins lucrativos, para a execução de programas, projetos e atividades que envolvam a transferência de recursos oriundos dos Orçamentos Fiscal e da Seguridade Social da União.
 
-VI - convenente - órgão ou entidade da administração pública direta e indireta, de qualquer esfera de governo, bem como entidade privada sem fins lucrativos, com o qual a administração federal pactua a execução de programa, projeto/atividade ou evento mediante a celebração de convênio;
+convenente - órgão ou entidade da administração pública direta e indireta, de qualquer esfera de governo, bem como entidade privada sem fins lucrativos, com o qual a administração federal pactua a execução de programa, projeto/atividade ou evento mediante a celebração de convênio;
 
-VII - contratado - órgão ou entidade da administração pública direta e indireta, de qualquer esfera de governo, bem como entidade privada sem fins lucrativos, com a qual a administração federal pactua a execução de contrato de repasse.
+contratado - órgão ou entidade da administração pública direta e indireta, de qualquer esfera de governo, bem como entidade privada sem fins lucrativos, com a qual a administração federal pactua a execução de contrato de repasse.
 
-VIII - interveniente - órgão da administração pública direta e indireta de qualquer esfera de governo, ou entidade privada que participa do convênio para manifestar consentimento ou assumir obrigações em nome próprio.
+interveniente - órgão da administração pública direta e indireta de qualquer esfera de governo, ou entidade privada que participa do convênio para manifestar consentimento ou assumir obrigações em nome próprio.
 
 As parcerias com organizações da sociedade civil celebradas por Estado, Distrito Federal ou Município com recursos decorrentes de convênio celebrado com a União serão regidas pela Lei nº 13.019, de 2014, e pelas normas estaduais ou municipais. 
 
@@ -18,7 +18,7 @@ As parcerias com organizações da sociedade civil celebradas por Estado, Distri
 
 As entidades privadas sem fins lucrativos que pretendam celebrar convênio ou contrato de repasse com órgãos ou entidades da administração pública federal deverão realizar cadastro no Sistema de Gestão de Convênios e Contratos de Repasse - SICONV, conforme normas do órgão central do sistema.           
 
-A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos será precedida de chamamento público a ser realizado pelo órgão ou entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.      (Redação dada pelo Decreto nº 7.568, de 2011)
+A celebração de convênio ou contrato de repasse com entidades privadas sem fins lucrativos será precedida de chamamento público a ser realizado pelo órgão ou entidade concedente, visando à seleção de projetos ou entidades que tornem mais eficaz o objeto do ajuste.      
 
 Os convênios ou contratos de repasse com entidades privadas sem fins lucrativos deverão ser assinados pelo Ministro de Estado ou pelo dirigente máximo da entidade da administração pública federal concedente.      
 
