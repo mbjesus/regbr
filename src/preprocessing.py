@@ -1,7 +1,6 @@
 import re
 from bs4 import BeautifulSoup
-from nltk.tokenize import RegexpTokenizer
-import nltk
+
 
 class PreProcessing:
 
@@ -30,6 +29,10 @@ class PreProcessing:
         text = re.sub(r"(@\[A-Za-z0-9]+)|([^0-9A-Za-z . ! ? : \( \) , ; À Á Â Ã Ç È É Ê Ì Í Î Ò Ó Ô Õ Ù Ú Û ])|(\w+:\/\/\S+)|^rt|http.+?|[.]{2,}", " ", text)
         text = re.sub(r'\n',' ',text)
         
+        ##drop staring or ending numbers
+        text = re.sub('^[0-9]*|[0-9]*$','',text)
+        text = text.strip()
+        
         # replace multiple spaces with a single space
         text = re.sub(' +', ' ', text)
         return text
@@ -53,20 +56,3 @@ class PreProcessing:
         # drop blank lines
         textIn = ' '.join(chunk for chunk in chunks if chunk)
         return textIn
-
-    def getNrTokens(self, txt):
-
-        if(self.stopword_list_nltk == -1):
-            self.getStopWordList()
-
-        tokenizer = RegexpTokenizer(r'\w+')
-        tokens = tokenizer.tokenize(txt)
-        filtered_sentence = [w for w in tokens if not w.lower() in self.stopword_list_nltk]
-        return {"tokens_total": len(tokens), "tokens_no_stopwords":len(filtered_sentence)}
-
-
-    def getStopWordList(self) -> None:
-        # Create Stop Words List
-        nltk.download('stopwords')
-        nltk.download('punkt')
-        self.stopword_list_nltk = nltk.corpus.stopwords.words('portuguese')
