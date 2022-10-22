@@ -1,0 +1,1 @@
+The file dados_regbr_sentencas_v3.parquet was divided into five parts with WinRAR.
