@@ -1,7 +1,12 @@
 
 # ARTIFICIAL INTELLIGENCE ON LEGAL LANGUAGE PROCESSING: USING DEEP LEARNING TO FOUND THE REGULATORY LAW FRAMEWORK FOR THE THIRD SECTOR
 
+## Abstract
+
 This paper deals with the application of artificial intelligence algorithms in processing legal language to identify a complete set of rules applicable to a given legal theme. In this study, we sought to delimit the regulatory framework that involves the Third Sector, based on the data set on the Brazilian regulation flow (RegBR). From the bibliographic research, machine learning techniques were applied to automate the classification of each sentence within the analyzed normative acts, allowing to identify to what extent a norm applies to the selected topic. BERT model with fine-tuning by a Brazilian legal dataset was highly effective, reaching 94% of precision (F1-Score and AUC). The results include a total found of 2,359 rules spread in 611 normative acts on the 1,330,190 sentences distributed in 51 thousand regulations contained in the dataset, demonstrating how the applied techniques can contribute to the improvement of the themes involved.
+
+
+## Methodology
 
 Figure 01 describes the overview of machine learning tasks that will be discussed in the following sections.
 
@@ -11,6 +16,7 @@ The pre-trained BERTIMBAL version BERT-large-portuguese-cased model was fine-tun
 * epochs= 4;
 * dropout rate of 0.1.
 
+
 In our research, we used the PyTorch library. McCormick & Ryan (2019) inspired the source code, and the dataset and the developed model are online on GitHub (https://github.com/mbjesus/regbr/). It applied the Adam Optimization Algorithm from PyTorch worked in a GPU Nvidia. 
 
 After each epoch, the fine-tuned model was evaluated with the VDS dataset. The training loss rate decreased with each epoch, demonstrating that it could learn from the training data. However, the Evaluation loss rate remained practically constant.
@@ -19,6 +25,8 @@ F1-Score and AUC metrics increased slightly.  These numbers reinforce that the f
 
 
 We build a Bootstrap over 1000 samples without repetition from the VDS dataset and calculate the F1-Score and AUC density distribution. As demonstrated in Figure 06, the distribution is close to Normal Distribution. Consequently, we can estimate the confidence interval with α = 5% for these metrics based on the Limit Central Theorem. The confidence interval for F1-Score was 92% and 98% and for AUC was 93% and 98%.
+
+## Results
 
 Finally, in the Deployment stage, 1,330,190 sentences were classified, and the BERT model labeled 2,538 sentences as TS. Business experts analyzed the results and found 27 incorrect classifications, and we removed these sentences from the TS dataset. After that, we merge the sentences to rebuild the original document to compute the metrics. The result was used to build the legal framework for the third sector.
 These complete results of automated classification were revised by humans again. The conclusion is that the computational model obtained an assertiveness of 93.94%. In the end, 710 regulations were found with the prediction of the algorithm, of which 611 were correctly predicted. The total of rule sentences predicted was 2,511, where 2,359 was about TS. For comparison, the first search using keywords returns just 17 regulations against more than 610 with machine learning.
